@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "SF Display";
+    font-weight: 900;
+    src: url("Altero-Regular.otf");
+  }
+  
+  /** Bold */
+  @font-face {
+    font-family: "SF Display";
+    font-weight: 700;
+    src: url("Altero-Italic.otf");
+  }
